@@ -32,7 +32,7 @@ Este proyecto es una solución basada en microservicios que incluye servicios pa
 1. **Clonar el Repositorio**
    ```bash
    git clone https://github.com/Macario12/testyalutec.git
-   cd evaluacionyalutec
+   cd testyalutec
 
 2. **Ejecutar Docker Compose**
 **Clonar el Repositorio**
